@@ -4,7 +4,7 @@ A high-performance, dynamic quiz application built with *Vanilla JavaScript. Thi
 
 ______________________________________________________________________________________________________________________________
 
-## 🚀 [Live Demo Link](
+## 🚀 [Live Demo Link](https://gauravjaiswal786.github.io/Quiz-Game-Applications/)
 
 ______________________________________________________________________________________________________________________________
 
